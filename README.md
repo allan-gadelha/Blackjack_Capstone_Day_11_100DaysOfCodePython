@@ -1,0 +1,3 @@
+The first big project from the course 100 Days of Code, we're gonna make a Blackjack game! This is a capstone project!
+
+This one was indeed a large project, considering the others I've already done on this course. I've tried to use dictionaries here, but there was just one place that it worked out, but it would make that part harder to read, it was on function results, so i decided to left it as is.
